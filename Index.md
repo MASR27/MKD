@@ -4,6 +4,11 @@ nav:
     - Home: 'index.md'
     - About: 'about.md'
     - Contact: 'contact.md'
+    
+    theme:
+  palette:
+    primary: green
+    accent: light-green
 ---
 
 # Welcome to the ISO 10012:2003 Measurement Management System for Gas Stations
