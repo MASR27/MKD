@@ -1,0 +1,27 @@
+site_name: Measurement Management System
+site_description: ISO 10012:2003 for Gas Station
+theme:
+  name: 'material'
+  palette:
+    primary: 'green'
+  language: en
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.drawer
+    - navigation.top
+    - navigation.pills
+nav:
+  - Home: 'index.md'
+  - Overview:
+      - 'scope.md'
+      - 'objectives.md'
+  - Procedures:
+      - 'measurement_procedures.md'
+      - 'calibration_procedures.md'
+  - Records:
+      - 'record_keeping.md'
+      - 'data_analysis.md'
+  - Resources:
+      - 'documents.md'
+      - 'tools.md'
