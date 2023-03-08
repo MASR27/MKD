@@ -1,0 +1,32 @@
+/* custom.css */
+
+/* Override Material for MkDocs styles */
+.md-typeset {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Add AdminLTE styles */
+body {
+  background-color: #f7f7f7;
+  font-size: 14px;
+}
+
+.navbar {
+  background-color: #222d32;
+  color: #fff;
+}
+
+.navbar-brand {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.navbar-nav > li > a {
+  color: #fff;
+}
+
+.navbar-nav > .active > a, 
+.navbar-nav > .active > a:hover, 
+.navbar-nav > .active > a:focus {
+  background-color: #1e282c;
+}
