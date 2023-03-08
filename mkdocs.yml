@@ -1,3 +1,7 @@
-site_name: My Project
 theme:
   name: material
+  palette:
+    primary: 'teal'
+    accent: 'deep-orange'
+  font:
+    text: 'Roboto'
