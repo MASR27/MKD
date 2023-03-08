@@ -1,7 +1,10 @@
+site_name: Your site name
 theme:
-  name: material
+  name: 'material'
   palette:
-    primary: 'teal'
+    primary: 'indigo'
     accent: 'deep-orange'
-  font:
-    text: 'Roboto'
+  nav:
+    - Home: 'index.md'
+    - About: 'about.md'
+    - Contact: 'contact.md'
