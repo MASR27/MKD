@@ -1,10 +1,29 @@
-site_name: Your site name
+site_name: Gas Station Measurement Management System
 theme:
   name: 'material'
   palette:
-    primary: 'indigo'
-    accent: 'deep-orange'
-  nav:
-    - Home: 'index.md'
-    - About: 'about.md'
-    - Contact: 'contact.md'
+    primary: 'green'
+    accent: 'light-green'
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.tabs
+  logo: 'images/logo.png'
+  favicon: 'images/favicon.png'
+nav:
+  - Home: 'index.md'
+  - About:
+    - 'about.md'
+    - 'team.md'
+  - Contact: 'contact.md'
+  - Downloads:
+    - 'downloads.md'
+    - 'manuals.md'
+    - 'guides.md'
+  - Login: 'login.md'
+markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 3
+      baselevel: 2
+  - pymdownx.highlight
