@@ -5,7 +5,7 @@ nav:
     - About: 'about.md'
     - Contact: 'contact.md'
     
-    theme:
+    theme: material
   palette:
     primary: green
     accent: light-green
