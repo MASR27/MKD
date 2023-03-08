@@ -1,39 +1,38 @@
-# Scope
+# Measurement Management System for Gas Station
 
-The scope of this document is to provide guidelines and procedures for the measurement management system (MMS) for gas stations in accordance with ISO 10012:2003.
+Welcome to the Measurement Management System for Gas Station, which follows the ISO 10012:2003 standard.
 
-## Objectives
+## Scope
 
-The objectives of the MMS are to:
+The scope of this system includes:
 
-- Ensure the accuracy and reliability of measurements performed at gas stations
-- Ensure compliance with regulatory requirements and customer expectations
-- Continuously improve the measurement process and equipment
-- Maintain traceability of measurement results
+- Measurement and monitoring of fuel levels in tanks and dispensers
+- Calibration of measuring equipment and instruments
+- Maintenance and repair of equipment
+- Record keeping of measurement data and calibration results
+- Training and qualification of personnel
 
-## Covered Areas
+## Procedures
 
-This document covers the following areas of the MMS for gas stations:
+The procedures for implementing this system include:
 
-- Measurement equipment selection and installation
-- Calibration and verification procedures
-- Record keeping and documentation
-- Training and competency of personnel involved in measurement activities
-- Non-conforming measurement equipment and processes
-- Continuous improvement of the MMS
+- Establishing a measurement and monitoring plan for each gas station
+- Selecting appropriate measuring equipment and instruments
+- Performing initial and periodic calibration of equipment
+- Conducting maintenance and repair of equipment as needed
+- Keeping accurate and complete records of measurement data and calibration results
+- Providing training and qualification to personnel involved in the measurement and monitoring process
 
-## Exclusions
+## Dashboard
 
-This document does not cover:
+This system also includes a dashboard for visualizing measurement data and trends, as well as monitoring equipment status and calibration schedules.
 
-- Health and safety aspects related to measurement activities
-- Environmental aspects related to measurement activities
-- Quality management system requirements outside of the MMS for gas stations
+![Dashboard Example](dashboard.png)
 
-## Applicability
+## Contact Us
 
-This document is applicable to all gas stations where measurements are performed, regardless of the type of fuel or equipment used.
+If you have any questions or concerns about this system, please contact us at:
 
-## References
-
-ISO 10012:2003 - Measurement management systems - Requirements for measurement processes and measuring equipment
+- Phone: 555-555-5555
+- Email: info@gasstation.com
+- Address: 123 Main St, Anytown, USA
